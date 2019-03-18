@@ -22,3 +22,5 @@ At the end of going through the material we should haev an entry level understan
 be able to combine, manipulate, and write our own code for our own uses. 
 
 [P5 Cheat Sheet](https://github.com/bmoren/p5js-cheat-sheet)
+
+[P5 Reference](https://p5js.org/reference/)
