@@ -6,7 +6,7 @@ Download to files to begin.
 
 Open up index in Studio Code.
 
-Navigate through each java script file and exlore the code.
+Navigate through each Javascript file and exlore the code.
 
 ##Lesson:
 

@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+body{
+    background-color: aliceblue;
+    font-family: 'Righteous', cursive;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+a{
+    color: rgb(91, 137, 165);
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(91, 137, 165);
+}
+
+p{
+    width: 720px;
+    margin: 0 auto;
+}
+
+h1{
+    width: 720px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom:10px;
+}
+
+
+#myContainer{
+    width: 720px;
+    margin: 0 auto;
+}
