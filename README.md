@@ -20,3 +20,5 @@ Navigate through each Javascript file and exlore the code.
 
 At the end of going through the material we should haev an entry level understanding of how P5.js works and we should
 be able to combine, manipulate, and write our own code for our own uses. 
+
+[P5 Cheat Sheet](https://github.com/bmoren/p5js-cheat-sheet)
