@@ -4,9 +4,7 @@
 
 Download to files to begin.
 
-Open up index in Studio Code.
-
-Navigate through each Javascript file and exlore the code.
+Open up the P5 folder in Studio Code.
 
 ## Lesson:
 
