@@ -1,6 +1,6 @@
-READ ME
+#READ ME
 
-To start:
+##To start:
 
 Download to files to begin.
 
@@ -8,7 +8,7 @@ Open up index in Studio Code.
 
 Navigate through each java script file and exlore the code.
 
-Lesson:
+##Lesson:
 
 1. Go through each individual set of java script to understand and see how we can string togeather different elements.
 
