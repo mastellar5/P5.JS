@@ -21,7 +21,7 @@ Navigate through each Javascript file and exlore the code.
 At the end of going through the material we should have an entry level understanding of how P5.js works and we should
 be able to combine, manipulate, and write our own code for our own uses. 
 
-## Exercise
+## Exercise:
 
 Create a simple "Paint" application using the Mouse Press function. The application must be usable on the web. You must also be able to draw a smiley face within your canvas :D
 
