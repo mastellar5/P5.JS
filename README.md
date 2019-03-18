@@ -18,8 +18,12 @@ Navigate through each Javascript file and exlore the code.
 
 4. Individually we will create our own P5 sketch and upload it to the web for viewing. 
 
-At the end of going through the material we should haev an entry level understanding of how P5.js works and we should
+At the end of going through the material we should have an entry level understanding of how P5.js works and we should
 be able to combine, manipulate, and write our own code for our own uses. 
+
+## Exercise
+
+Create a simple "Paint" application using the Mouse Press function. The application must be usable on the web. You must also be able to draw a smiley face within your canvas :D
 
 [P5 Cheat Sheet](https://github.com/bmoren/p5js-cheat-sheet)
 
